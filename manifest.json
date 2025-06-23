@@ -6,7 +6,7 @@
   "theme": {},
   "components": {
     "tooltip": {
-      "url": "tooltip.js",
+      "url": "https://switzerlandtourism.github.io/tooltip-viz/tooltip.js",
       "reportComponent": "TooltipViz"
     }
   }
