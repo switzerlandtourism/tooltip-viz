@@ -1,13 +1,20 @@
 {
-  "data": {
-    "type": "NONE"
-  },
-  "style": {},
-  "theme": {},
-  "components": {
-    "tooltip": {
-      "url": "https://switzerlandtourism.github.io/tooltip-viz/tooltip.js",
-      "reportComponent": "TooltipViz"
+  "name": "Tooltip Viz",
+  "organization": "Switzerland Tourism",
+  "description": "Einfacher Tooltip-Button für Looker Studio",
+  "logoUrl": "https://switzerlandtourism.github.io/tooltip-viz/logo.png",
+  "supportUrl": "https://github.com/switzerlandtourism/tooltip-viz",
+  "packageUrl": "https://github.com/switzerlandtourism/tooltip-viz",
+  "devMode": true,
+  "components": [
+    {
+      "id": "tooltip",
+      "name": "Tooltip Button",
+      "description": "Zeigt einen Infobutton mit Tooltip beim Hover",
+      "iconUrl": "https://switzerlandtourism.github.io/tooltip-viz/icon.png",
+      "resource": {
+        "js": "https://switzerlandtourism.github.io/tooltip-viz/tooltip.js"
+      }
     }
-  }
+  ]
 }
