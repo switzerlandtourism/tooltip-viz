@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type": "NONE"
+  },
+  "style": {},
+  "theme": {},
+  "components": {
+    "tooltip": {
+      "url": "tooltip.js",
+      "reportComponent": "TooltipViz"
+    }
+  }
+}
