@@ -3,7 +3,7 @@
   "organization": "Switzerland Tourism",
   "description": "Einfacher Tooltip-Button für Looker Studio",
   "logoUrl": "https://switzerlandtourism.github.io/tooltip-viz/logo.png",
-  "supportUrl": "https://github.com/switzerlandtourism/tooltip-viz",
+  "supportUrl": "https://help.myswitzerland.com/hc/en-us",
   "packageUrl": "https://github.com/switzerlandtourism/tooltip-viz",
   "devMode": true,
   "components": [
